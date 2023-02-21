@@ -36,5 +36,5 @@ jobs:
 workflows:
   circleci-workflow:
     jobs:
-      - say-hello
+#      - say-hello
       - create_infrastructure
